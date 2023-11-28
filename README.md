@@ -23,6 +23,3 @@
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ...etc:
-![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-
